@@ -1,0 +1,6 @@
+{
+{"name": "milk",
+"price": 50,
+"quality": 100,
+"id": 2}
+}
