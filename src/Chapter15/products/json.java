@@ -33,10 +33,10 @@ import java.util.stream.Stream;
       }
       String con = """
               {
-              {"name": "milk",
-              "price": 50,
+              {"name": "malt",
+              "price": 500,
               "quality": 100,
-              "id": 2}
+              "id": 3}
               }""";
      try(FileWriter writer = new FileWriter("C:\\Users\\mariam\\IdeaProjects\\untitled\\src\\Chapter15\\products.txt")){
          writer.append(con);

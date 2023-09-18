@@ -1,6 +1,6 @@
 {
-{"name": "milk",
-"price": 50,
+{"name": "malt",
+"price": 500,
 "quality": 100,
-"id": 2}
+"id": 3}
 }

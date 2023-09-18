@@ -1,0 +1,5 @@
+package LambdaAndStream
+
+class first {
+
+}

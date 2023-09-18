@@ -24,7 +24,7 @@ public class TypeOfStreams  {
         try(
                 // Creating a input stream that reads from the keyboard(System.in)
                 DataInputStream dataInputStream = new DataInputStream(System.in);
-                //Creating a output Stream that outputs data to the file pointed to by DATABASE_LOCATION
+                //Creating a output Streams that outputs data to the file pointed to by DATABASE_LOCATION
         FileOutputStream fileOutputStream = new FileOutputStream(DATABASE_LOCATION)){ ;
             //Prompt User to say what's on their mind
            System.out.println("What's on your mind");
